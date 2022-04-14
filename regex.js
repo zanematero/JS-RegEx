@@ -47,6 +47,7 @@ Regular Expression 2: Email
 
 Expected Output: 
 ["lsouza@gmail.com"]
+- Note: Your terminal might also display the index, input, and groups of the match. If so, that's okay!
 
 */ 
 
